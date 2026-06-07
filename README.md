@@ -1,3 +1,73 @@
+
+
+💵 Dự án của “pháp sư” 18.5k⭐ giúp creator và OPC kiếm tiền tự động từ content đưa lên đa nền tảng (tôi là tôi không tin đâu 😂)
+
+Trong khi nhiều người vẫn đang tự viết content, tự đăng bài và tự trả lời comment thủ công…
+
+thì AiToEarn đang xây dựng một hệ sinh thái AI Agent hoàn chỉnh cho workflow:
+
+👉 Create → Publish → Engage → Monetize
+
+Điều mình thấy thú vị:
+Đây không chỉ là tool auto-post thông thường.
+
+AiToEarn đang hướng tới mô hình:
+
+* AI Content Marketing Agent
+* AI Social Media Operator
+* AI Monetization Platform
+
+… dành cho creator, influencer, solopreneur và doanh nghiệp nhỏ.
+
+🔥 4 AI Agents cốt lõi:
+
+💰 Monetize Agent
+Tự động nhận campaign/task từ brand và kiếm tiền theo:
+
+* CPM
+* CPS
+* CPE
+
+📢 Publish Agent
+
+Đăng bài đa nền tảng:
+
+* TikTok
+* YouTube
+* Facebook
+* Instagram
+* Threads
+* X/Twitter
+* Xiaohongshu
+* Douyin
+    …
+
+💬 Engage Agent
+
+* AI reply comments
+* Auto like/follow/save
+* Detect buyer intent
+* Brand monitoring
+
+🎨 Create Agent
+
+* AI tạo video
+* AI tạo ảnh
+* Dịch video
+* Batch content generation
+* Hỗ trợ nhiều model AI khác nhau
+
+⚡ Điểm mạnh lớn:
+
+* Open-source hoàn toàn
+* Docker deploy dễ
+* Hỗ trợ MCP / Claude / Cursor
+* Có marketplace kiếm tiền thật
+* Tích hợp social workflow rất sâu
+
+
+
+
 # [Aitoearn：OPC（一人公司）的AI内容营销智能体](https://aitoearn.ai)
 
 <a href="https://trendshift.io/repositories/20785" target="_blank"><img src="https://trendshift.io/api/badge/repositories/20785" alt="yikart%2FAiToEarn | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
